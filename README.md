@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 <!--![jHyuk22's github stats](https://github-readme-stats.vercel.app/api?username=jHyuk22&show_icons=true)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jhlee220)](https://solved.ac/jhlee220)-->
-🔭게임 개발에 관심 있는 청춘 개발자
+🔭게임 개발자
 
 🏢Computer Engineering, Sejong Univ.
+👯GameMakers 8기 프로그래머
 
 🌱C++, C#과 UNITY를 공부중입니다
 
