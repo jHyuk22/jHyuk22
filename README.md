@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 🔭게임 개발자
 
 🏢Computer Engineering, Sejong Univ.
+
 👯GameMakers 8기 프로그래머
 
 🌱C++, C#과 UNITY를 공부중입니다
