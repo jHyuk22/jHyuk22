@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 👯GameMakers 8기 프로그래머
 
-🌱C#과 UNITY로 개발합니다
-
-⚡Typescript와 Cocos Creator를 공부중입니다
+🌱UNITY로 개발합니다
 
 📫e-mail: jhlee4938@gmail.com / jhlee220@naver.com
 
