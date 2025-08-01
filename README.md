@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🏢Computer Engineering, Sejong Univ.
 
-👯GameMakers 8기 프로그래머
+👯2025.01 ~ (주)너디스타 DX9Studio 클라이언트 프로그래머
 
 🌱UNITY로 개발합니다
 
